@@ -1,0 +1,664 @@
+Municipios;Periodo;Total
+17001 Agullana;2022;903
+17001 Agullana;2021;885
+17001 Agullana;2020;863
+17002 Aiguaviva;2022;780
+17002 Aiguaviva;2021;789
+17002 Aiguaviva;2020;765
+17003 Albanyà;2022;180
+17003 Albanyà;2021;178
+17003 Albanyà;2020;155
+17004 Albons;2022;797
+17004 Albons;2021;798
+17004 Albons;2020;759
+17006 Alp;2022;1717
+17006 Alp;2021;1645
+17006 Alp;2020;1593
+17007 Amer;2022;2422
+17007 Amer;2021;2383
+17007 Amer;2020;2332
+17008 Anglès;2022;5682
+17008 Anglès;2021;5709
+17008 Anglès;2020;5654
+17009 Arbúcies;2022;6474
+17009 Arbúcies;2021;6507
+17009 Arbúcies;2020;6608
+17010 Argelaguer;2022;439
+17010 Argelaguer;2021;417
+17010 Argelaguer;2020;396
+17011 Armentera, L';2022;1043
+17011 Armentera, L';2021;998
+17011 Armentera, L';2020;951
+17012 Avinyonet de Puigventós;2022;1676
+17012 Avinyonet de Puigventós;2021;1657
+17012 Avinyonet de Puigventós;2020;1641
+17015 Banyoles;2022;20187
+17015 Banyoles;2021;20168
+17015 Banyoles;2020;20053
+17016 Bàscara;2022;1034
+17016 Bàscara;2021;1015
+17016 Bàscara;2020;1001
+17013 Begur;2022;4177
+17013 Begur;2021;4039
+17013 Begur;2020;3891
+17018 Bellcaire d'Empordà;2022;713
+17018 Bellcaire d'Empordà;2021;699
+17018 Bellcaire d'Empordà;2020;678
+17019 Besalú;2022;2480
+17019 Besalú;2021;2502
+17019 Besalú;2020;2487
+17020 Bescanó;2022;5156
+17020 Bescanó;2021;5094
+17020 Bescanó;2020;4991
+17021 Beuda;2022;202
+17021 Beuda;2021;187
+17021 Beuda;2020;186
+17022 Bisbal d'Empordà, La;2022;11163
+17022 Bisbal d'Empordà, La;2021;11190
+17022 Bisbal d'Empordà, La;2020;11159
+17234 Biure;2022;249
+17234 Biure;2021;244
+17234 Biure;2020;241
+17023 Blanes;2022;40579
+17023 Blanes;2021;40274
+17023 Blanes;2020;39914
+17029 Boadella i les Escaules;2022;258
+17029 Boadella i les Escaules;2021;271
+17029 Boadella i les Escaules;2020;272
+17024 Bolvir;2022;518
+17024 Bolvir;2021;489
+17024 Bolvir;2020;375
+17025 Bordils;2022;1815
+17025 Bordils;2021;1796
+17025 Bordils;2020;1761
+17026 Borrassà;2022;776
+17026 Borrassà;2021;752
+17026 Borrassà;2020;733
+17027 Breda;2022;3842
+17027 Breda;2021;3836
+17027 Breda;2020;3762
+17028 Brunyola i Sant Martí Sapresa;2022;388
+17028 Brunyola i Sant Martí Sapresa;2021;390
+17028 Brunyola i Sant Martí Sapresa;2020;389
+17031 Cabanelles;2022;279
+17031 Cabanelles;2021;266
+17031 Cabanelles;2020;267
+17030 Cabanes;2022;949
+17030 Cabanes;2021;941
+17030 Cabanes;2020;968
+17032 Cadaqués;2022;2889
+17032 Cadaqués;2021;2820
+17032 Cadaqués;2020;2695
+17033 Caldes de Malavella;2022;8196
+17033 Caldes de Malavella;2021;8051
+17033 Caldes de Malavella;2020;7872
+17034 Calonge i Sant Antoni;2022;11712
+17034 Calonge i Sant Antoni;2021;11484
+17034 Calonge i Sant Antoni;2020;11331
+17035 Camós;2022;715
+17035 Camós;2021;711
+17035 Camós;2020;677
+17036 Campdevànol;2022;3217
+17036 Campdevànol;2021;3225
+17036 Campdevànol;2020;3232
+17037 Campelles;2022;162
+17037 Campelles;2021;149
+17037 Campelles;2020;140
+17038 Campllong;2022;535
+17038 Campllong;2021;533
+17038 Campllong;2020;537
+17039 Camprodon;2022;2469
+17039 Camprodon;2021;2435
+17039 Camprodon;2020;2298
+17040 Canet d'Adri;2022;750
+17040 Canet d'Adri;2021;749
+17040 Canet d'Adri;2020;729
+17041 Cantallops;2022;330
+17041 Cantallops;2021;305
+17041 Cantallops;2020;309
+17042 Capmany;2022;672
+17042 Capmany;2021;618
+17042 Capmany;2020;611
+17044 Cassà de la Selva;2022;10680
+17044 Cassà de la Selva;2021;10505
+17044 Cassà de la Selva;2020;10410
+17046 Castellfollit de la Roca;2022;926
+17046 Castellfollit de la Roca;2021;939
+17046 Castellfollit de la Roca;2020;947
+17047 Castelló d'Empúries;2022;11611
+17047 Castelló d'Empúries;2021;11154
+17047 Castelló d'Empúries;2020;11100
+17048 Castell-Platja d'Aro;2022;11757
+17048 Castell-Platja d'Aro;2021;11455
+17048 Castell-Platja d'Aro;2020;11030
+17189 Cellera de Ter, La;2022;1967
+17189 Cellera de Ter, La;2021;1973
+17189 Cellera de Ter, La;2020;1950
+17049 Celrà;2022;5503
+17049 Celrà;2021;5606
+17049 Celrà;2020;5561
+17050 Cervià de Ter;2022;999
+17050 Cervià de Ter;2021;973
+17050 Cervià de Ter;2020;966
+17051 Cistella;2022;307
+17051 Cistella;2021;282
+17051 Cistella;2020;282
+17054 Colera;2022;468
+17054 Colera;2021;462
+17054 Colera;2020;445
+17055 Colomers;2022;204
+17055 Colomers;2021;188
+17055 Colomers;2020;174
+17057 Corçà;2022;1268
+17057 Corçà;2021;1275
+17057 Corçà;2020;1268
+17056 Cornellà del Terri;2022;2407
+17056 Cornellà del Terri;2021;2422
+17056 Cornellà del Terri;2020;2399
+17058 Crespià;2022;276
+17058 Crespià;2021;270
+17058 Crespià;2020;254
+17901 Cruïlles, Monells i Sant Sadurní de l'Heura;2022;1338
+17901 Cruïlles, Monells i Sant Sadurní de l'Heura;2021;1327
+17901 Cruïlles, Monells i Sant Sadurní de l'Heura;2020;1270
+17060 Darnius;2022;535
+17060 Darnius;2021;540
+17060 Darnius;2020;537
+17061 Das;2022;267
+17061 Das;2021;248
+17061 Das;2020;234
+17062 Escala, L';2022;10520
+17062 Escala, L';2021;10497
+17062 Escala, L';2020;10244
+17063 Espinelves;2022;248
+17063 Espinelves;2021;239
+17063 Espinelves;2020;221
+17064 Espolla;2022;408
+17064 Espolla;2021;412
+17064 Espolla;2020;412
+17065 Esponellà;2022;489
+17065 Esponellà;2021;469
+17065 Esponellà;2020;463
+17005 Far d'Empordà, El;2022;625
+17005 Far d'Empordà, El;2021;619
+17005 Far d'Empordà, El;2020;602
+17066 Figueres;2022;47088
+17066 Figueres;2021;47043
+17066 Figueres;2020;47235
+17067 Flaçà;2022;1130
+17067 Flaçà;2021;1147
+17067 Flaçà;2020;1130
+17068 Foixà;2022;288
+17068 Foixà;2021;299
+17068 Foixà;2020;303
+17069 Fontanals de Cerdanya;2022;533
+17069 Fontanals de Cerdanya;2021;506
+17069 Fontanals de Cerdanya;2020;437
+17070 Fontanilles;2022;163
+17070 Fontanilles;2021;157
+17070 Fontanilles;2020;146
+17071 Fontcoberta;2022;1466
+17071 Fontcoberta;2021;1468
+17071 Fontcoberta;2020;1469
+17902 Forallac;2022;1765
+17902 Forallac;2021;1708
+17902 Forallac;2020;1695
+17073 Fornells de la Selva;2022;2693
+17073 Fornells de la Selva;2021;2700
+17073 Fornells de la Selva;2020;2670
+17074 Fortià;2022;778
+17074 Fortià;2021;793
+17074 Fortià;2020;787
+17075 Garrigàs;2022;458
+17075 Garrigàs;2021;464
+17075 Garrigàs;2020;451
+17076 Garrigoles;2022;177
+17076 Garrigoles;2021;170
+17076 Garrigoles;2020;167
+17077 Garriguella;2022;922
+17077 Garriguella;2021;909
+17077 Garriguella;2020;853
+17078 Ger;2022;512
+17078 Ger;2021;502
+17078 Ger;2020;449
+17079 Girona;2022;102666
+17079 Girona;2021;101932
+17079 Girona;2020;103369
+17080 Gombrèn;2022;200
+17080 Gombrèn;2021;196
+17080 Gombrèn;2020;192
+17081 Gualta;2022;439
+17081 Gualta;2021;421
+17081 Gualta;2020;402
+17082 Guils de Cerdanya;2022;573
+17082 Guils de Cerdanya;2021;588
+17082 Guils de Cerdanya;2020;549
+17083 Hostalric;2022;4370
+17083 Hostalric;2021;4332
+17083 Hostalric;2020;4291
+17084 Isòvol;2022;318
+17084 Isòvol;2021;314
+17084 Isòvol;2020;281
+17085 Jafre;2022;386
+17085 Jafre;2021;382
+17085 Jafre;2020;387
+17086 Jonquera, La;2022;3317
+17086 Jonquera, La;2021;3340
+17086 Jonquera, La;2020;3320
+17087 Juià;2022;334
+17087 Juià;2021;327
+17087 Juià;2020;319
+17088 Lladó;2022;827
+17088 Lladó;2021;845
+17088 Lladó;2020;844
+17089 Llagostera;2022;9024
+17089 Llagostera;2021;8851
+17089 Llagostera;2020;8647
+17090 Llambilles;2022;731
+17090 Llambilles;2021;730
+17090 Llambilles;2020;713
+17091 Llanars;2022;533
+17091 Llanars;2021;535
+17091 Llanars;2020;535
+17092 Llançà;2022;4905
+17092 Llançà;2021;4842
+17092 Llançà;2020;4775
+17093 Llers;2022;1245
+17093 Llers;2021;1252
+17093 Llers;2020;1237
+17094 Llívia;2022;1495
+17094 Llívia;2021;1504
+17094 Llívia;2020;1431
+17095 Lloret de Mar;2022;38941
+17095 Lloret de Mar;2021;38402
+17095 Lloret de Mar;2020;39089
+17096 Llosses, Les;2022;205
+17096 Llosses, Les;2021;209
+17096 Llosses, Les;2020;212
+17102 Maçanet de Cabrenys;2022;724
+17102 Maçanet de Cabrenys;2021;729
+17102 Maçanet de Cabrenys;2020;698
+17103 Maçanet de la Selva;2022;7572
+17103 Maçanet de la Selva;2021;7349
+17103 Maçanet de la Selva;2020;7066
+17097 Madremanya;2022;302
+17097 Madremanya;2021;296
+17097 Madremanya;2020;288
+17098 Maià de Montcal;2022;462
+17098 Maià de Montcal;2021;469
+17098 Maià de Montcal;2020;463
+17100 Masarac;2022;294
+17100 Masarac;2021;284
+17100 Masarac;2020;288
+17101 Massanes;2022;825
+17101 Massanes;2021;803
+17101 Massanes;2020;796
+17099 Meranges;2022;111
+17099 Meranges;2021;97
+17099 Meranges;2020;100
+17105 Mieres;2022;341
+17105 Mieres;2021;349
+17105 Mieres;2020;345
+17106 Mollet de Peralada;2022;202
+17106 Mollet de Peralada;2021;197
+17106 Mollet de Peralada;2020;198
+17107 Molló;2022;365
+17107 Molló;2021;347
+17107 Molló;2020;336
+17109 Montagut i Oix;2022;958
+17109 Montagut i Oix;2021;951
+17109 Montagut i Oix;2020;930
+17110 Mont-ras;2022;1676
+17110 Mont-ras;2021;1672
+17110 Mont-ras;2020;1680
+17111 Navata;2022;1465
+17111 Navata;2021;1434
+17111 Navata;2020;1427
+17112 Ogassa;2022;222
+17112 Ogassa;2021;240
+17112 Ogassa;2020;240
+17114 Olot;2022;36716
+17114 Olot;2021;36299
+17114 Olot;2020;35926
+17115 Ordis;2022;373
+17115 Ordis;2021;369
+17115 Ordis;2020;361
+17116 Osor;2022;423
+17116 Osor;2021;426
+17116 Osor;2020;428
+17117 Palafrugell;2022;23396
+17117 Palafrugell;2021;23046
+17117 Palafrugell;2020;23244
+17118 Palamós;2022;18145
+17118 Palamós;2021;18196
+17118 Palamós;2020;18135
+17119 Palau de Santa Eulàlia;2022;115
+17119 Palau de Santa Eulàlia;2021;111
+17119 Palau de Santa Eulàlia;2020;90
+17121 Palau-sator;2022;327
+17121 Palau-sator;2021;323
+17121 Palau-sator;2020;310
+17120 Palau-saverdera;2022;1472
+17120 Palau-saverdera;2021;1490
+17120 Palau-saverdera;2020;1456
+17123 Palol de Revardit;2022;457
+17123 Palol de Revardit;2021;446
+17123 Palol de Revardit;2020;448
+17124 Pals;2022;2548
+17124 Pals;2021;2516
+17124 Pals;2020;2395
+17125 Pardines;2022;165
+17125 Pardines;2021;166
+17125 Pardines;2020;169
+17126 Parlavà;2022;415
+17126 Parlavà;2021;413
+17126 Parlavà;2020;391
+17128 Pau;2022;579
+17128 Pau;2021;588
+17128 Pau;2020;557
+17129 Pedret i Marzà;2022;181
+17129 Pedret i Marzà;2021;187
+17129 Pedret i Marzà;2020;191
+17130 Pera, La;2022;438
+17130 Pera, La;2021;448
+17130 Pera, La;2020;435
+17132 Peralada;2022;1974
+17132 Peralada;2021;1945
+17132 Peralada;2020;1898
+17133 Planes d'Hostoles, Les;2022;1745
+17133 Planes d'Hostoles, Les;2021;1711
+17133 Planes d'Hostoles, Les;2020;1712
+17134 Planoles;2022;307
+17134 Planoles;2021;311
+17134 Planoles;2020;304
+17135 Pont de Molins;2022;542
+17135 Pont de Molins;2021;518
+17135 Pont de Molins;2020;516
+17136 Pontós;2022;274
+17136 Pontós;2021;264
+17136 Pontós;2020;260
+17137 Porqueres;2022;4712
+17137 Porqueres;2021;4701
+17137 Porqueres;2020;4677
+17140 Port de la Selva, El;2022;1015
+17140 Port de la Selva, El;2021;1010
+17140 Port de la Selva, El;2020;958
+17138 Portbou;2022;1090
+17138 Portbou;2021;1095
+17138 Portbou;2020;1063
+17139 Preses, Les;2022;1875
+17139 Preses, Les;2021;1875
+17139 Preses, Les;2020;1855
+17141 Puigcerdà;2022;9484
+17141 Puigcerdà;2021;9518
+17141 Puigcerdà;2020;9486
+17142 Quart;2022;3906
+17142 Quart;2021;3856
+17142 Quart;2020;3798
+17043 Queralbs;2022;191
+17043 Queralbs;2021;191
+17043 Queralbs;2020;188
+17143 Rabós;2022;210
+17143 Rabós;2021;206
+17143 Rabós;2020;184
+17144 Regencós;2022;271
+17144 Regencós;2021;282
+17144 Regencós;2020;276
+17145 Ribes de Freser;2022;1810
+17145 Ribes de Freser;2021;1787
+17145 Ribes de Freser;2020;1760
+17146 Riells i Viabrea;2022;4279
+17146 Riells i Viabrea;2021;4268
+17146 Riells i Viabrea;2020;4153
+17147 Ripoll;2022;10641
+17147 Ripoll;2021;10721
+17147 Ripoll;2020;10803
+17148 Riudarenes;2022;2337
+17148 Riudarenes;2021;2283
+17148 Riudarenes;2020;2204
+17149 Riudaura;2022;511
+17149 Riudaura;2021;511
+17149 Riudaura;2020;481
+17150 Riudellots de la Selva;2022;2072
+17150 Riudellots de la Selva;2021;2076
+17150 Riudellots de la Selva;2020;2071
+17151 Riumors;2022;244
+17151 Riumors;2021;244
+17151 Riumors;2020;246
+17152 Roses;2022;19907
+17152 Roses;2021;19921
+17152 Roses;2020;19807
+17153 Rupià;2022;300
+17153 Rupià;2021;296
+17153 Rupià;2020;273
+17154 Sales de Llierca;2022;169
+17154 Sales de Llierca;2021;164
+17154 Sales de Llierca;2020;159
+17155 Salt;2022;32517
+17155 Salt;2021;32230
+17155 Salt;2020;32138
+17157 Sant Andreu Salou;2022;162
+17157 Sant Andreu Salou;2021;156
+17157 Sant Andreu Salou;2020;160
+17183 Sant Aniol de Finestres;2022;363
+17183 Sant Aniol de Finestres;2021;353
+17183 Sant Aniol de Finestres;2020;345
+17158 Sant Climent Sescebes;2022;696
+17158 Sant Climent Sescebes;2021;712
+17158 Sant Climent Sescebes;2020;707
+17159 Sant Feliu de Buixalleu;2022;839
+17159 Sant Feliu de Buixalleu;2021;808
+17159 Sant Feliu de Buixalleu;2020;797
+17160 Sant Feliu de Guíxols;2022;22149
+17160 Sant Feliu de Guíxols;2021;22210
+17160 Sant Feliu de Guíxols;2020;22097
+17161 Sant Feliu de Pallerols;2022;1495
+17161 Sant Feliu de Pallerols;2021;1456
+17161 Sant Feliu de Pallerols;2020;1437
+17162 Sant Ferriol;2022;256
+17162 Sant Ferriol;2021;247
+17162 Sant Ferriol;2020;236
+17163 Sant Gregori;2022;4085
+17163 Sant Gregori;2021;4012
+17163 Sant Gregori;2020;3928
+17164 Sant Hilari Sacalm;2022;5836
+17164 Sant Hilari Sacalm;2021;5758
+17164 Sant Hilari Sacalm;2020;5703
+17165 Sant Jaume de Llierca;2022;842
+17165 Sant Jaume de Llierca;2021;852
+17165 Sant Jaume de Llierca;2020;871
+17167 Sant Joan de les Abadesses;2022;3274
+17167 Sant Joan de les Abadesses;2021;3250
+17167 Sant Joan de les Abadesses;2020;3224
+17168 Sant Joan de Mollet;2022;515
+17168 Sant Joan de Mollet;2021;501
+17168 Sant Joan de Mollet;2020;498
+17185 Sant Joan les Fonts;2022;3054
+17185 Sant Joan les Fonts;2021;3050
+17185 Sant Joan les Fonts;2020;3044
+17166 Sant Jordi Desvalls;2022;830
+17166 Sant Jordi Desvalls;2021;796
+17166 Sant Jordi Desvalls;2020;760
+17169 Sant Julià de Ramis;2022;3623
+17169 Sant Julià de Ramis;2021;3612
+17169 Sant Julià de Ramis;2020;3576
+17903 Sant Julià del Llor i Bonmatí;2022;1347
+17903 Sant Julià del Llor i Bonmatí;2021;1314
+17903 Sant Julià del Llor i Bonmatí;2020;1313
+17171 Sant Llorenç de la Muga;2022;267
+17171 Sant Llorenç de la Muga;2021;267
+17171 Sant Llorenç de la Muga;2020;265
+17172 Sant Martí de Llémena;2022;679
+17172 Sant Martí de Llémena;2021;663
+17172 Sant Martí de Llémena;2020;641
+17173 Sant Martí Vell;2022;261
+17173 Sant Martí Vell;2021;244
+17173 Sant Martí Vell;2020;251
+17174 Sant Miquel de Campmajor;2022;239
+17174 Sant Miquel de Campmajor;2021;243
+17174 Sant Miquel de Campmajor;2020;229
+17175 Sant Miquel de Fluvià;2022;808
+17175 Sant Miquel de Fluvià;2021;755
+17175 Sant Miquel de Fluvià;2020;761
+17176 Sant Mori;2022;159
+17176 Sant Mori;2021;157
+17176 Sant Mori;2020;166
+17177 Sant Pau de Segúries;2022;732
+17177 Sant Pau de Segúries;2021;725
+17177 Sant Pau de Segúries;2020;688
+17178 Sant Pere Pescador;2022;2079
+17178 Sant Pere Pescador;2021;2083
+17178 Sant Pere Pescador;2020;2090
+17180 Santa Coloma de Farners;2022;13557
+17180 Santa Coloma de Farners;2021;13459
+17180 Santa Coloma de Farners;2020;13363
+17181 Santa Cristina d'Aro;2022;5585
+17181 Santa Cristina d'Aro;2021;5408
+17181 Santa Cristina d'Aro;2020;5287
+17182 Santa Llogaia d'Àlguema;2022;379
+17182 Santa Llogaia d'Àlguema;2021;378
+17182 Santa Llogaia d'Àlguema;2020;368
+17184 Santa Pau;2022;1605
+17184 Santa Pau;2021;1585
+17184 Santa Pau;2020;1614
+17186 Sarrià de Ter;2022;5294
+17186 Sarrià de Ter;2021;5231
+17186 Sarrià de Ter;2020;5229
+17187 Saus, Camallera i Llampaies;2022;865
+17187 Saus, Camallera i Llampaies;2021;865
+17187 Saus, Camallera i Llampaies;2020;856
+17188 Selva de Mar, La;2022;220
+17188 Selva de Mar, La;2021;212
+17188 Selva de Mar, La;2020;195
+17190 Serinyà;2022;1153
+17190 Serinyà;2021;1143
+17190 Serinyà;2020;1133
+17191 Serra de Daró;2022;233
+17191 Serra de Daró;2021;235
+17191 Serra de Daró;2020;222
+17192 Setcases;2022;200
+17192 Setcases;2021;185
+17192 Setcases;2020;170
+17193 Sils;2022;6507
+17193 Sils;2021;6349
+17193 Sils;2020;6219
+17052 Siurana;2022;178
+17052 Siurana;2021;179
+17052 Siurana;2020;171
+17194 Susqueda;2022;96
+17194 Susqueda;2021;99
+17194 Susqueda;2020;93
+17195 Tallada d'Empordà, La;2022;480
+17195 Tallada d'Empordà, La;2021;466
+17195 Tallada d'Empordà, La;2020;454
+17196 Terrades;2022;345
+17196 Terrades;2021;334
+17196 Terrades;2020;338
+17197 Torrent;2022;166
+17197 Torrent;2021;160
+17197 Torrent;2020;164
+17198 Torroella de Fluvià;2022;741
+17198 Torroella de Fluvià;2021;726
+17198 Torroella de Fluvià;2020;703
+17199 Torroella de Montgrí;2022;12061
+17199 Torroella de Montgrí;2021;12023
+17199 Torroella de Montgrí;2020;11836
+17200 Tortellà;2022;823
+17200 Tortellà;2021;816
+17200 Tortellà;2020;818
+17201 Toses;2022;185
+17201 Toses;2021;178
+17201 Toses;2020;168
+17202 Tossa de Mar;2022;5956
+17202 Tossa de Mar;2021;5930
+17202 Tossa de Mar;2020;5818
+17204 Ullà;2022;1195
+17204 Ullà;2021;1167
+17204 Ullà;2020;1177
+17205 Ullastret;2022;250
+17205 Ullastret;2021;258
+17205 Ullastret;2020;274
+17203 Ultramort;2022;224
+17203 Ultramort;2021;226
+17203 Ultramort;2020;225
+17206 Urús;2022;214
+17206 Urús;2021;210
+17206 Urús;2020;196
+17014 Vajol, La;2022;87
+17014 Vajol, La;2021;88
+17014 Vajol, La;2020;89
+17208 Vall de Bianya, La;2022;1345
+17208 Vall de Bianya, La;2021;1315
+17208 Vall de Bianya, La;2020;1275
+17207 Vall d'en Bas, La;2022;3143
+17207 Vall d'en Bas, La;2021;3115
+17207 Vall d'en Bas, La;2020;3093
+17170 Vallfogona de Ripollès;2022;222
+17170 Vallfogona de Ripollès;2021;213
+17170 Vallfogona de Ripollès;2020;196
+17209 Vall-llobrega;2022;926
+17209 Vall-llobrega;2021;918
+17209 Vall-llobrega;2020;897
+17210 Ventalló;2022;911
+17210 Ventalló;2021;914
+17210 Ventalló;2020;846
+17211 Verges;2022;1162
+17211 Verges;2021;1183
+17211 Verges;2020;1169
+17212 Vidrà;2022;181
+17212 Vidrà;2021;186
+17212 Vidrà;2020;177
+17213 Vidreres;2022;8167
+17213 Vidreres;2021;8073
+17213 Vidreres;2020;7951
+17214 Vilabertran;2022;991
+17214 Vilabertran;2021;969
+17214 Vilabertran;2020;993
+17215 Vilablareix;2022;3396
+17215 Vilablareix;2021;3225
+17215 Vilablareix;2020;3063
+17217 Viladamat;2022;479
+17217 Viladamat;2021;471
+17217 Viladamat;2020;458
+17216 Viladasens;2022;216
+17216 Viladasens;2021;214
+17216 Viladasens;2020;206
+17218 Vilademuls;2022;840
+17218 Vilademuls;2021;835
+17218 Vilademuls;2020;835
+17220 Viladrau;2022;1103
+17220 Viladrau;2021;1102
+17220 Viladrau;2020;1047
+17221 Vilafant;2022;5562
+17221 Vilafant;2021;5480
+17221 Vilafant;2020;5421
+17223 Vilajuïga;2022;1142
+17223 Vilajuïga;2021;1124
+17223 Vilajuïga;2020;1116
+17224 Vilallonga de Ter;2022;410
+17224 Vilallonga de Ter;2021;386
+17224 Vilallonga de Ter;2020;398
+17225 Vilamacolum;2022;386
+17225 Vilamacolum;2021;371
+17225 Vilamacolum;2020;377
+17226 Vilamalla;2022;1166
+17226 Vilamalla;2021;1154
+17226 Vilamalla;2020;1161
+17227 Vilamaniscle;2022;204
+17227 Vilamaniscle;2021;205
+17227 Vilamaniscle;2020;212
+17228 Vilanant;2022;401
+17228 Vilanant;2021;399
+17228 Vilanant;2020;386
+17230 Vila-sacra;2022;785
+17230 Vila-sacra;2021;761
+17230 Vila-sacra;2020;758
+17222 Vilaür;2022;162
+17222 Vilaür;2021;162
+17222 Vilaür;2020;158
+17233 Vilobí d'Onyar;2022;3304
+17233 Vilobí d'Onyar;2021;3310
+17233 Vilobí d'Onyar;2020;3333
+17232 Vilopriu;2022;223
+17232 Vilopriu;2021;230
+17232 Vilopriu;2020;204

@@ -7,6 +7,7 @@ library(randomForest)
 library(glm)
 library(MASS)
 library(Metrics)
+library(glmnet)
 
 setwd("D:/Usuarios/rrrei/Desktop/doctorado") # casa
 setwd("/home/ruben/Trabajo/modelo_predictivo/2paper/") # GO-lab
@@ -260,7 +261,7 @@ save.image()
 
 # 23/10
 
-library(glmnet)
+
 
 training_indices <- sample(nrow(model_data6), nrow(model_data6)*.8)
 training_data <- model_data6[training_indices, ]

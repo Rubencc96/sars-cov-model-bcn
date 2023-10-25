@@ -7,6 +7,7 @@ library(MASS)
 library(Metrics)
 library(glmnet)
 library(tidyverse)
+library(naniar)
 
 setwd("D:/Usuarios/rrrei/Desktop/doctorado") # casa
 setwd("/home/ruben/Trabajo/modelo_predictivo/2paper/") # GO-lab
@@ -87,5 +88,5 @@ for (i in seq(edars)){
   new_edar_dfs[i] <- subdata
 }
 
-ggplot(data = subdata, aes(x = Fecha, y = N1)) + 
-  geom_smooth()
+gg_miss_upset(subdata)
+vis_miss(data_edar_red)

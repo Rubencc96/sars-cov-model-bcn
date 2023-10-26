@@ -61,7 +61,6 @@ colnames(mun_meta_ine) <- c("Mun", "Codigo", "EDAR", "Year", "nHab", "CP")
 mun_meta_ine <- select(mun_meta_ine, Mun, EDAR, Year, nHab)
 
 ## Ahora la unión con las EDAR que esto va a ser lo gracioso
-data_merged_clean$EDAR <- str_replace_all(data_merged_clean$EDAR, ",", " ")
 data_edar$depuradora <- str_replace_all(data_edar$depuradora, "_", " ")
 data_edar_red <- data_edar[,c(2,3,4,5,6, 7, 8, 11, 12)]
 colnames(data_edar_red) <- c("EDAR", "N1", "N2",

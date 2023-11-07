@@ -15,7 +15,7 @@ library(cowplot)
 library(GGally)
 
 setwd("D:/Usuarios/rrrei/Desktop/doctorado") # casa
-setwd("/home/ruben/Trabajo/modelo_predictivo/2paper/") # GO-lab
+setwd("/home/ruben/Trabajo/modelo_predictivo/2paper/git/sars-cov-model-bcn") # GO-lab
 list.files()
 
 e <- 2.7182818284590452353602874713527

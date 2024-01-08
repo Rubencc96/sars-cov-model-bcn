@@ -2,7 +2,7 @@ library(ggplot2)
 library(readxl)
 library(stringr)
 library(randomForest)
-library(glm)
+
 library(MASS)
 library(Metrics)
 library(glmnet)
@@ -90,8 +90,16 @@ data_edar_red$sars <-
     data_edar_red$E,
     na.rm = T)
 
+
+
 data_edar_red$sars2[which(is.na(data_edar_red$sars2))] = 0
 
+data_proportions <- data_edar_red[c("N1", "N2", "IP4", "E")] %>%
+  rowwise %>%
+  mutate(Max_name = names(.)[which.max(c(N1, N2, IP4, E))]) %>%
+  ungroup
+
+(table(data_proportions$Max_name) / nrow(data_proportions)) * 100
 
 new_edar_dfs <- list()
 for (i in seq(edars)){

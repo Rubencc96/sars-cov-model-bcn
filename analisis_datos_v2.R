@@ -137,7 +137,29 @@ data_sars <- list_rbind(new_edar_dfs)
 
 # gg_miss_upset(test)
 # vis_miss(test)
-# vis_miss(data_edar_red)
+
+names(data_edar_red)
+data_edar_vismiss <- data_edar_red[,-c(9,10)]
+
+names(data_edar_vismiss) <- c("WWTP", "Target_N1", "Target_N2", "Target_IP4", 
+                              "Target_E", "WWTP_Flow", "Precipitations", 
+                              "Combined_targets", "Date")
+data_edar_vismiss <- data_edar_vismiss[,c(1,9, 6, 7, 2, 3,4,5, 8)]
+
+mmm = 24
+suppfig1 <- vis_miss(data.frame(data_edar_vismiss)) +
+  theme(axis.text.x = element_text(size = mmm),
+        axis.text.y = element_text(size = mmm-4),
+        axis.title.y = element_text(size = mmm)) +
+  theme(legend.key.size = unit(.8, 'cm'), #change legend key size
+      legend.key.height = unit(.8, 'cm'), #change legend key height
+      legend.key.width = unit(.8, 'cm'), #change legend key width
+      legend.text = element_text(size=mmm-2)) #change legend text font size
+# modify for paper figure
+ggsave(filename = "./figures/suppfigg_na.svg",
+      suppfig1,
+      width = 12,
+      height = 16)
 
 
 Muns <- unique(data_hosp3$Mun)
